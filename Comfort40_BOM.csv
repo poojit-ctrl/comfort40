@@ -1,0 +1,18 @@
+Component,Description,Qty,Estimated Price (USD),Notes
+PCB,Custom Comfort40 PCB,1,30,From JLCPCB or similar
+Microcontroller,RP2040,1,2,USB-C
+Switches,MX-compatible mechanical switches,40,20,Gateron
+Keycaps,40-key ortholinear set,1,23,XDA/DSA works well
+Diodes,1N4148,40,3,Through-hole or SMD
+Reset Switch,Tactile momentary switch,1,0.5,Used for flashing
+Hotswap Sockets,Kailh MX hotswap sockets,40,8,Why not
+Plate,Laser-cut acrylic or FR4,1,6,DXF included
+Case (Top + Bottom),3D printed or resin enclosure,1,18,Print or outsource
+Screws/Standoffs,M3 hardware,1 set,2,For mounting everything
+USB Cable,USB-C to USB-A cable,1,4,Any decent one
+Rotary Encoder,EC11 vertical rotary encoder,1,2,Includes push button switch
+Knob Cap,Aluminum or plastic vertical knob,1,1.5,Press-fit or set screw type
+Foam/Dampening,EVA foam or PE sheet,1, AVAILABLE ,Optional silencing mod
+,,, $120.00 ,
+,,,,
+,,,,
