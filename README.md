@@ -2,11 +2,13 @@
 
 Comfort40 is a compact 40-key mechanical keyboard designed to ditch all the bloat and keep only what matters. It’s got the vibe of minimalism with just enough muscle to handle your everyday typing, coding, shortcut-spamming, and layer-fu. Built for chill, built for speed, built for the desk setups that scream “I know what I’m doing.”
 
+![image](https://github.com/user-attachments/assets/c243c167-d84b-4f04-a77d-c3e7c8b777cf)
+
 ---
 
 ## What Even Is This
 
-Comfort40 is a DIY keyboard project for anyone who’s ever looked at a full-size keyboard and thought “nah.” It’s a 40% board, ortholinear (so all the keys line up like a grid), and completely open source. You can build it however you like solder or hotswap, RGB or no RGB, loud clicky switches or silent stealthy ones. It’s your call.
+Comfort40 is a DIY keyboard project for anyone who’s ever looked at a full-size keyboard and thought “nah.” It’s a 40% board, ortholinear (so all the keys line up like a grid), and completely open source. You can build it however you like solder or hotswap, loud clicky switches or silent stealthy ones. It’s your call.
 
 This board runs QMK and VIA, so you can customize literally every key. Layer keys? Macro madness? Tap dance? Yeah, it’s all here. Want a numpad? Put it on a layer. Arrows? You bet. The layout may be tiny but the power is unhinged.
 
@@ -75,7 +77,7 @@ firmware → QMK + VIA
 ## Hot swappable
 | Image | Description |
 |-------|-------------|
-| ![3dview](https://github.com/user-attachments/assets/26f2c8da-9cd6-488c-902c-eda8ac0b64d1) | The raw KiCad 3D preview. Check that switch layout and component placement. No case here, just vibes. |
+| <img width="618" alt="image" src="https://github.com/user-attachments/assets/43e7f192-4b49-4cfb-8506-24b7866044d7" /> | KLE Layout |
 
 ---
 
