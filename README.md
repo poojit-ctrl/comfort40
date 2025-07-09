@@ -33,23 +33,23 @@ firmware → QMK + VIA
 ---
 | Component                  | Description                                      | Qty | Estimated Price (USD) | Notes |
 |---------------------------|--------------------------------------------------|-----|------------------------|-------|
-| **PCB**                   | Custom Comfort40 PCB                             | 1   | $10.00                 | From JLCPCB or similar |
-| **Microcontroller**       | RP2040                                           | 1   | $12.00                 | USB-C preferred |
-| **Switches**              | MX-compatible mechanical switches                | 40  | $20.00                 | Gateron, Akko, etc. |
+| **PCB**                   | Custom Comfort40 PCB                             | 1   | $30.00(after coupon)   | From JLCPCB or similar |
+| **Microcontroller**       | RP2040                                           | 1   | $2.00                  | USB-C |
+| **Switches**              | MX-compatible mechanical switches                | 40  | $20.00                 | Gateron|
 | **Keycaps**               | 40-key ortholinear set                           | 1   | $23.00                 | XDA/DSA works well |
-| **Diodes**                | 1N4148 or SOD-123                                | 40  | $3.00                  | Through-hole or SMD |
+| **Diodes**                | 1N4148                                           | 40  | $3.00                  | Through-hole or SMD |
 | **Reset Switch**          | Tactile momentary switch                         | 1   | $0.50                  | Used for flashing |
-| **Hotswap Sockets**       | Kailh MX hotswap sockets                         | 40  | $8.00                  | Optional; or solder switches directly |
+| **Hotswap Sockets**       | Kailh MX hotswap sockets                         | 40  | $8.00                  | Why not |
 | **Plate**                 | Laser-cut acrylic or FR4                         | 1   | $6.00                  | DXF included |
 | **Case (Top + Bottom)**   | 3D printed or resin enclosure                    | 1   | $18.00                 | Print or outsource |
-| **Screws/Standoffs**      | M2 or M3 hardware                                | 1 set | $2.00                | For mounting everything |
+| **Screws/Standoffs**      | M3 hardware                                      | 1 set | $2.00                | For mounting everything |
 | **USB Cable**             | USB-C to USB-A cable                             | 1   | $4.00                  | Any decent one |
 | **Rotary Encoder**        | EC11 vertical rotary encoder                     | 1   | $2.00                  | Includes push button switch |
 | **Knob Cap**              | Aluminum or plastic vertical knob                | 1   | $1.50                  | Press-fit or set screw type |
 | **Foam/Dampening**        | EVA foam or PE sheet                             | 1   | $1.00                  | Optional silencing mod |
 
 ---
-## Estimated Total: **$130.00 USD**
+## Estimated Total: **$140.00 USD**
 
 
 ## Images
