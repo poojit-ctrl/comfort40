@@ -92,9 +92,7 @@ QMK is the default brain of Comfort40. Flash it with QMK Toolbox or VIA Configur
 
 ## License
 
-MIT. Remix it. Fork it. Sell it to your friends. Just don’t be a jerk.
-
----
+MIT
 
 made for comfort not clutter  
 zero bloat  
