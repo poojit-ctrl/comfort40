@@ -47,7 +47,7 @@ firmware → QMK + VIA
 | **USB Cable**             | USB-C to USB-A cable                             | 1   | $4.00                  | Any decent one |
 | **Rotary Encoder**        | EC11 vertical rotary encoder                     | 1   | $2.00                  | Includes push button switch |
 | **Knob Cap**              | Aluminum or plastic vertical knob                | 1   | $1.50                  | Press-fit or set screw type |
-| **Foam/Dampening**        | EVA foam or PE sheet                             | 1   | ALREADY HAVE IT AT HOME| Optional silencing mod |
+| **Foam/Dampening**        | EVA foam or PE sheet                             | 1   | ALREADY HAVE IT AT HOME| silencing mod |
 
 ---
 ## Estimated Total: **$120.00 USD**
