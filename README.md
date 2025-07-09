@@ -49,7 +49,7 @@ firmware → QMK + VIA
 | **Foam/Dampening**        | EVA foam or PE sheet                             | 1   | $1.00                  | Optional silencing mod |
 
 ---
-### Estimated Total: **$130.00 USD**
+## Estimated Total: **$130.00 USD**
 
 
 ## Images
