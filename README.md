@@ -2,7 +2,8 @@
 
 Comfort40 is a compact 40-key mechanical keyboard designed to ditch all the bloat and keep only what matters. It’s got the vibe of minimalism with just enough muscle to handle your everyday typing, coding, shortcut-spamming, and layer-fu. Built for chill, built for speed, built for the desk setups that scream “I know what I’m doing.”
 
-![image](https://github.com/user-attachments/assets/c243c167-d84b-4f04-a77d-c3e7c8b777cf)
+![image](https://github.com/user-attachments/assets/1e82e9fc-8fce-48a1-beae-bce962e7a07d)
+
 
 ---
 
