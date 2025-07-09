@@ -34,7 +34,7 @@ firmware → QMK + VIA
 | Component                  | Description                                      | Qty | Estimated Price (USD) | Notes |
 |---------------------------|--------------------------------------------------|-----|------------------------|-------|
 | **PCB**                   | Custom Comfort40 PCB                             | 1   | $10.00                 | From JLCPCB or similar |
-| **Microcontroller**       | Elite-C (USB-C) or Pro Micro clone               | 1   | $12.00                 | USB-C preferred |
+| **Microcontroller**       | RP2040                                           | 1   | $12.00                 | USB-C preferred |
 | **Switches**              | MX-compatible mechanical switches                | 40  | $20.00                 | Gateron, Akko, etc. |
 | **Keycaps**               | 40-key ortholinear set                           | 1   | $23.00                 | XDA/DSA works well |
 | **Diodes**                | 1N4148 or SOD-123                                | 40  | $3.00                  | Through-hole or SMD |
