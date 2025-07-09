@@ -98,7 +98,7 @@ QMK is the default brain of Comfort40. Flash it with QMK Toolbox or VIA Configur
 
 ---
 
-## License
+## Licence
 
 MIT
 
